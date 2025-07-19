@@ -90,7 +90,7 @@ def mobilografiya_menu(update: Update, context: CallbackContext):
         ["Milliy ta'lim resurslari", "Ustoz AI"],
         ["⬅ Go back"]
     ]
-    make_menu(buttons, "📷 Mobilografiya bo'limi — darslardan birini tanlang", update)
+    make_menu(buttons, " Mobilografiya bo'limi — darslardan birini tanlang", update)
 
 
 def smm_menu(update: Update, context: CallbackContext):
